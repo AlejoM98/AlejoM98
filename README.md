@@ -21,7 +21,7 @@ Disfruto el cruce entre ambos mundos: **encontrar lo que está roto y saber corr
 
 **📌 Proyectos destacados:**
 - **[credinform-sa](https://github.com/AlejoM98/credinform-sa)** — Auditoría de seguridad y refactor de un sistema legacy de gestión de pólizas (PHP + MySQL). SQL Injection, XSS y hashing de contraseñas corregidos con metodología documentada.
-<!-- - **[nombre-proyecto-vue]** — Próximamente: mini app con Vue 3 + Pinia + Tailwind -->
+   - **[test-case-tracker](https://github.com/AlejoM98/test-case-tracker)** — Gestor de casos de prueba con Vue 3 + Pinia + Tailwind CSS. [Demo en vivo](https://test-case-tracker-one.vercel.app/)
 
 **📫 Contacto:**
 
